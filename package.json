@@ -1,6 +1,6 @@
 {
 	"author": "Kevin Peckham",
-	"name": "lj-sveltekit-ts-tailwind-pug-starter-SVELTE-5-PREVIEW",
+	"name": "svelte-5-preview",
 	"version": "0.0.1",
 	"devDependencies": {
 		"@playwright/test": "^1.40.1",
