@@ -10,6 +10,7 @@
 	],
 	arrowParens: "always",
 	bracketSpacing: true,
+	bracketSameLine: true,
 	embeddedLanguageFormatting: "auto",
 	htmlWhitespaceSensitivity: "strict",
 	printWidth: 80,
@@ -20,6 +21,7 @@
 	tabWidth: 2,
 	trailingComma: "all",
 	useTabs: true,
+	vueIndentScriptAndStyle: true, // added
 
 	// prettier pug plugin options
 	// https://prettier.github.io/plugin-pug/guide/pug-specific-options.html
