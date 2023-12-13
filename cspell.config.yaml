@@ -1,8 +1,9 @@
 version: "0.2"
-ignorePaths:
+ignorePaths: null
 dictionaryDefinitions: []
 dictionaries: []
 enableCompoundWords: enable
 words:
+  - tailwindcss
 import: []
-ignoreWords:
+ignoreWords: null

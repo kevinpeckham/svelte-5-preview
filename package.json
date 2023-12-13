@@ -29,15 +29,6 @@
 		"vitest": "^0.34.6"
 	},
 	"type": "module",
-	"description": "A Svelte, Typescript, Tailwindcss, & Pug starter template",
-	"homepage": "https://skinnypug.dev",
-	"keywords": [
-		"Svelte",
-		"Typescript",
-		"TailwindCSS",
-		"Pug",
-		"Starter"
-	],
 	"license": "MIT",
 	"private": true,
 	"scripts": {
